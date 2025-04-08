@@ -55,4 +55,5 @@ Verified data integrity post-restore.
 *output*
 ![Image](https://github.com/user-attachments/assets/816427ca-4927-448a-98ca-fc44834bc475)
 
+![Image](https://github.com/user-attachments/assets/a61fea12-5555-4384-a924-ab1169748103)
 
