@@ -53,5 +53,6 @@ A successfully restored database in case of accidental failure.
 Verified data integrity post-restore.
 
 *output*
+![Image](https://github.com/user-attachments/assets/816427ca-4927-448a-98ca-fc44834bc475)
 
 
