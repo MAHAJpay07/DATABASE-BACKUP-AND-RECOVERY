@@ -18,6 +18,7 @@ PostgreSQL Database Backup and Restore
 This repository demonstrates how to back up and restore a PostgreSQL database using command-line tools. It's a simple and effective guide for ensuring data recovery in case of database failure.
 
 1.Tasks Covered:
+
 Backup a PostgreSQL database using pg_dump.
 
 Simulate a failure by dropping the database.
@@ -58,3 +59,5 @@ Verified data integrity post-restore.
 ![Image](https://github.com/user-attachments/assets/a61fea12-5555-4384-a924-ab1169748103)
 
 ![Image](https://github.com/user-attachments/assets/730beefa-0eff-4e8d-8a71-4d9bd9eef5db)
+
+![Image](https://github.com/user-attachments/assets/ae5d645a-1159-4488-b055-276706c6c529)
